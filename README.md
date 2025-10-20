@@ -4,7 +4,7 @@
 ## 📊 Overview
 This dashboard was developed for the **FP20 Analytics x ZoomCharts Mini Challenge 31 (October Edition)**. It offers a detailed, multi-perspective analysis of student and teacher performance across subjects, time, and demographics.
 
-### Dashboard Link Coming Soon....
+### [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMTkzMDUxMjMtZWUxZC00ODg4LTllZTgtMDA4ZWMxMWYxMjIwIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 The goal was to design an **interactive, data-driven, and visually cohesive** dashboard that combines storytelling with analytics. Leveraging **Power BI** and **ZoomCharts**, it enables users to explore academic insights efficiently through dynamic visuals and flip cards.
 
